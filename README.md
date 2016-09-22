@@ -1,4 +1,4 @@
-# How To Read A Text File From A Random Line
+# How To Read Random Line From File using Java
 
 •	I used Random class from Util library.
 
